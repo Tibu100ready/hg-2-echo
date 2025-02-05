@@ -3,17 +3,17 @@
 - [ ] Bravo
 - [ ] Charlie
 - [ ] Delta
-- [ ] Echo
+- [X] Echo
 # Tecnología
-- [ ] HTML
-- [ ] Json
-- [ ] Archivo plano (.txt)
+- [X] HTML
+- [X] Json
+- [X] Archivo plano (.txt)
 - [ ] Javascript
-- [ ] Markdown / .md
+- [X] Markdown / .md
 # Seleccione el tipo de actividad
-- [ ] Feature
+- [X] Feature
 - [ ] Changes
-- [ ] Hotfix
+- [X] Hotfix
 - [ ] Refactor
 - [ ] Performance
-- [ ] Testing
+- [X] Testing
